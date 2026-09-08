@@ -1,0 +1,61 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.DS_Store
+.idea/
+.vscode/
+
+# User-supplied competition inputs and derived corpora
+dataset/
+inputs/
+processed_data/
+*.pdf
+*.PDF
+*.html
+
+# Run outputs and audit material
+output/
+outputs/
+logs/
+artifacts/
+deliverables/
+answer*.csv
+answers.json
+reasonings.json
+reasoning_sources.json
+evidence.json
+api_calls.jsonl
+run_log.jsonl
+docsel_log.jsonl
+token_ledger.json
+run_config.json
+
+# Archives and office documents can carry hidden metadata
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Build products
+build/
+dist/
+*.egg-info/

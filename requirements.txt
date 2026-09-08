@@ -1,0 +1,5 @@
+pymupdf==1.28.2
+beautifulsoup4==4.15.0
+lxml==6.1.1
+openai==2.46.0
+httpx[socks]==0.28.1

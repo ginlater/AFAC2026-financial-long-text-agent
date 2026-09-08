@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the AAADogs team."
+title: "AFAC Financial Long-Document Agent"
+type: software
+license: "AGPL-3.0-only"
+authors:
+  - name: "AAADogs"
+  - name: "宋金洲"
+  - name: "李翰卿"
+  - name: "周帅宇"
